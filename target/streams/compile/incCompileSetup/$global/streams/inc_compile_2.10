@@ -1,0 +1,237 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes
+compile options:
+4 items
+0 -> -unchecked
+1 -> -deprecation
+2 -> -encoding
+3 -> utf8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+19 items
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$1.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$findAllPaths$1.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$findPath$1.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$jumps$3.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$knightsTour$1.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$knightsTourClosed$1.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$knightsTourCompleteClosed$1.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$knightsTourLazyClosed$1.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$nextTour$1.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$Frame$.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$Frame.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$TourFound.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$delayedInit$body.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/Point$$anonfun$jumps$1.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/Point$$anonfun$jumps$2.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/Point$.class
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/Workspace/knight-turn/target/scala-2.10/classes/Point.class
+binary dependencies:
+2 items
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /home/yordan/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+19 items
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$$anonfun$1
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$$anonfun$findAllPaths$1
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$$anonfun$findPath$1
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$$anonfun$jumps$3
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$$anonfun$knightsTour$1
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$$anonfun$knightsTourClosed$1
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$$anonfun$knightsTourCompleteClosed$1
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$$anonfun$knightsTourLazyClosed$1
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$$anonfun$nextTour$1
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$Frame
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$Frame$
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$TourFound
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91$delayedInit$body
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Point
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Point$
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Point$$anonfun$jumps$1
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Point$$anonfun$jumps$2
+used names:
+97 items
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> &&
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> *
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> +
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> -
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> ::
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> :::
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> <
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> <=
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> <init>
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> ==
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> >=
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> AbstractFunction2
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> AbstractFunction4
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> App
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Boolean
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Exception
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> ExecutionContext
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Frame
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Function2
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Implicits
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Int
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> List
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Nil
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> None
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> P91
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Point
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Predef
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Product
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> ScalaRunTime
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Serializable
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Set
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Statics
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Stream
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> TourFound
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Tuple2
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> Unit
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> _1
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> _2
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> _root_
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> _toString
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> anyHash
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> apply
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> asInstanceOf
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> canBuildFrom
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> concurrent
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> cons
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> contains
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> diff
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> done
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> empty
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> eq
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> filter
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> filtered
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> finalizeHash
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> findAllPaths
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> findPath
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> flatMap
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> foreach
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> global
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> head
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> immutable
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> intWrapper
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> isInstanceOf
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> jumps
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> knightsTour
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> knightsTourComplete
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> knightsTourLazy
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> length
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> map
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> max
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> min
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> mix
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> n
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> ne
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> nextTour
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> o
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> p
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> package
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> println
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> q
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> runtime
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> s
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> scala
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> size
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> soFar
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> sortWith
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> stack
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> start
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> t
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> tail
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> toList
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> toString
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> tour
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> typedProductIterator
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> x
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> y
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> ||
+product stamps:
+19 items
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$1.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$findAllPaths$1.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$findPath$1.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$jumps$3.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$knightsTour$1.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$knightsTourClosed$1.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$knightsTourCompleteClosed$1.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$knightsTourLazyClosed$1.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$$anonfun$nextTour$1.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$Frame$.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$Frame.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$TourFound.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91$delayedInit$body.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/P91.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/Point$$anonfun$jumps$1.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/Point$$anonfun$jumps$2.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/Point$.class -> lastModified(1432707176000)
+/home/yordan/Workspace/knight-turn/target/scala-2.10/classes/Point.class -> lastModified(1432707176000)
+source stamps:
+1 items
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> hash(30377f2cc682eaabe4568e64759e9cfc5d519d2b)
+binary stamps:
+2 items
+/home/yordan/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1430503940000)
+class names:
+2 items
+/home/yordan/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.runtime.AbstractFunction4
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Exception
+internal apis:
+1 items
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD+n87TAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAATHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNnFSRh0AAVGcmFtZXNxAH4ADGyWpQd0AAZub3RpZnlzcQB+AAz+zbRwdAAHdW5hcHBseXNxAH4ADKEBnMV0AAFzc3EAfgAMVdsn/3QAB2N1cnJpZWRzcQB+AAyjNOLydAABeHNxAH4ADLq0p8h0AA9wcmludFN0YWNrVHJhY2VzcQB+AAyH0E6NdAATZ2V0TG9jYWxpemVkTWVzc2FnZXNxAH4ADAIcfnx0AAR3YWl0c3EAfgAM3KgvXXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMl9r2+HQADSRhc0luc3RhbmNlT2ZzcQB+AAzOGPDjdAABbnNxAH4ADE68vyV0ABlrbmlnaHRzVG91ckNvbXBsZXRlQ2xvc2Vkc3EAfgAMHlwqQXQADHByb2R1Y3RBcml0eXNxAH4ADHJ6n050AAZlcXVhbHNzcQB+AAyE7cFedAABeXNxAH4ADKQ4aYN0ABBmaWxsSW5TdGFja1RyYWNlc3EAfgAMqm72x3QACWluaXRDYXVzZXNxAH4ADPwQwKR0AAxhc0luc3RhbmNlT2ZzcQB+AAw21crjdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAyeiEjqdAAJVG91ckZvdW5kc3EAfgAMIK6eJnQABVBvaW50c3EAfgAMaFaxqXQADHN5bmNocm9uaXplZHNxAH4ADEBy6yB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMzi4fy3QACGdldENhdXNlc3EAfgAM4AJ+B3QABnR1cGxlZHNxAH4ADIjQPrh0AAhjYW5FcXVhbHNxAH4ADCRElR10AAVfYXJnc3NxAH4ADGm4Tf50AA5jb3B5JGRlZmF1bHQkNHNxAH4ADL1rorx0AARtYWluc3EAfgAMZyUWNnQADXByb2R1Y3RQcmVmaXhzcQB+AAxezRB8dAATa25pZ2h0c1RvdXJDb21wbGV0ZXNxAH4ADFsYbo10AAhpbml0Q29kZXNxAH4ADCy0yCd0AAlub3RpZnlBbGxzcQB+AAyPfSTFdAALcmVhZFJlc29sdmVzcQB+AAxID7YQdAAIbmV4dFRvdXJzcQB+AAygdVBrdAABLXNxAH4ADAgJPeJ0AAxpc0luc3RhbmNlT2ZzcQB+AAw86rKndAAVa25pZ2h0c1RvdXJMYXp5Q2xvc2Vkc3EAfgAM3GyrFnQAC2tuaWdodHNUb3Vyc3EAfgAMBleUdnQADWdldFN0YWNrVHJhY2VzcQB+AAycrTsedAAUZ2V0U3RhY2tUcmFjZUVsZW1lbnRzcQB+AAyZNQzrdAAGPGluaXQ+c3EAfgAMsmdQ7XQACmdldE1lc3NhZ2VzcQB+AAyp/rCEdAANc2V0U3RhY2tUcmFjZXNxAH4ADIS06et0AAVhcHBseXNxAH4ADKmesot0AA1nZXRTdXBwcmVzc2Vkc3EAfgAMGivCN3QAAj09c3EAfgAMBHT4xnQAEmdldFN0YWNrVHJhY2VEZXB0aHNxAH4ADGIm7gN0AAVjbG9uZXNxAH4ADDqkVZl0AA1hZGRTdXBwcmVzc2Vkc3EAfgAMcBM9QHQAAXBzcQB+AAwVS/m5dAADUDkxc3EAfgAMRm4OfHQADGZpbmRBbGxQYXRoc3NxAH4ADJW9ZP50AA5jb3B5JGRlZmF1bHQkM3NxAH4ADPJS1p10AARjb3B5c3EAfgAMtYTe93QACHRvU3RyaW5nc3EAfgAMPDX5j3QABGFyZ3NzcQB+AAy1zemhdAABK3NxAH4ADBoxrdZ0AAIhPXNxAH4ADBQeHSl0AA9rbmlnaHRzVG91ckxhenlzcQB+AAyAflrWdAAIZ2V0Q2xhc3NzcQB+AAyBVPxGdAAOY29weSRkZWZhdWx0JDFzcQB+AAyHdGV7dAAFanVtcHNzcQB+AAwXvSjMdAAEdG91cnNxAH4ADKHTcY50AAJuZXNxAH4ADPcbbgF0AAhmaW5kUGF0aHNxAH4ADDbyIA50AAVzb0ZhcnNxAH4ADIqHIi90ABFrbmlnaHRzVG91ckNsb3NlZHNxAH4ADAgLmnB0AAJlcXNxAH4ADOQ0J6F0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwwd8QedAALZGVsYXllZEluaXRzcQB+AAzq2qBSdAACIyNzcQB+AAz2J98GdAAIZmluYWxpemVzcQB+AAzgQTGTdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAx6WhLUdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCveHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AxgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ar0wACWluaGVyaXRlZHEAfgCvTAAHcGFyZW50c3EAfgCveHEAfgDNc3EAfgDGAXVxAH4AqgAAAABwc3EAfgDGAXVxAH4AqgAAAABwc3EAfgDGAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AzHQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AzHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A5nNxAH4A2XEAfgDcc3EAfgDdc3EAfgDgdXEAfgDjAAAAA3NxAH4A5XQABGphdmFzcQB+AOV0AAJpb3EAfgDqc3EAfgDZdAAHUHJvZHVjdHEAfgDfc3EAfgDZdAAGRXF1YWxzcQB+AN9zcQB+ANl0AAZPYmplY3RzcQB+AN1zcQB+AOB1cQB+AOMAAAADc3EAfgDlcQB+APBzcQB+AOV0AARsYW5ncQB+AOpzcQB+ANl0AANBbnlxAH4A33Bwc3EAfgCscQB+ALl1cQB+ALoAAAAAc3EAfgC8AHEAfgB3dXEAfgC+AAAAAH5xAH4AwHQABk1vZHVsZXVxAH4AxAAAAABzcQB+AMYBcQB+AM5wc3EAfgDGAXNxAH4A0HNxAH4AxgF1cQB+AKoAAAAAcHNxAH4AxgF1cQB+AKoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ALBxAH4AuXVxAH4AugAAAABzcQB+ALwAcQB+AEl1cQB+AL4AAAAAc3EAfgDZdAAEVW5pdHNxAH4A3XNxAH4A4HVxAH4A4wAAAAJzcQB+AOVxAH4A6HEAfgDqdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4BEHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AwXQABVBsYWlucQB+AIFzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+ANpbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AMxzcQB+ANl0AAVBcnJheXEAfgEYdXEAfgDXAAAAAXNxAH4A2XQABlN0cmluZ3NxAH4A3XNxAH4A4HVxAH4A4wAAAANzcQB+AOVxAH4A8HNxAH4A5XEAfgD+cQB+AOpwc3EAfgDGAXVxAH4A1wAAAARzcQB+ANl0AANBcHBxAH4BGHNxAH4A2XQAC0RlbGF5ZWRJbml0cQB+ARhzcQB+ANlxAH4A+HEAfgExc3EAfgDZcQB+AQBxAH4BGHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU2UAIkhdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9ob21lL3lvcmRhbi9Xb3Jrc3BhY2Uva25pZ2h0LXR1cm4vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDA3fyzGguqr5FaOZHWenPxdUZ0r
+external apis:
+0 items
+source infos:
+1 items
+/home/yordan/Workspace/knight-turn/src/main/scala/Solutions.scala -> 
+AAAAAAAAAAA=
+compilations:
+8 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZP2Glt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3lvcmRhbi9Xb3Jrc3BhY2Uva25pZ2h0LXR1cm4vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZP2hVV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3lvcmRhbi9Xb3Jrc3BhY2Uva25pZ2h0LXR1cm4vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZP4c/51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3lvcmRhbi9Xb3Jrc3BhY2Uva25pZ2h0LXR1cm4vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZP4pGJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3lvcmRhbi9Xb3Jrc3BhY2Uva25pZ2h0LXR1cm4vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZP4/yJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3lvcmRhbi9Xb3Jrc3BhY2Uva25pZ2h0LXR1cm4vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZP7LIJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3lvcmRhbi9Xb3Jrc3BhY2Uva25pZ2h0LXR1cm4vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZP8wL51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3lvcmRhbi9Xb3Jrc3BhY2Uva25pZ2h0LXR1cm4vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTZQAiSF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL3lvcmRhbi9Xb3Jrc3BhY2Uva25pZ2h0LXR1cm4vdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
